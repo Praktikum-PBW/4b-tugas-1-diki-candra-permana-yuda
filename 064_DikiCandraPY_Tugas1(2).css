@@ -1,0 +1,27 @@
+body,p{
+    margin: 0;
+}
+
+header{
+    text-align: center;
+}
+
+.isi{
+    margin: auto;
+    width: 800px;
+    padding: 0 10px;
+    text-align: justify;
+    background-color: #ffffff;
+}
+
+.huruf::first-letter{
+    font-size:  35px;
+}
+
+body{
+    font: arial 16px sans-serif 28px;
+    background-color: rgb(196, 193, 193);
+    color:black;
+
+}
+
